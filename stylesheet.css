@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+h1 {
+    font-weight: 100;
+    text-transform: uppercase;
+    color: whitesmoke;
+}
+
+body {
+    font-family: "Open Sans";
+    font-weight: 200;
+    color: white;
+    background-image: url("tree.jpg");
+    background-color: white;
+    height: 750px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+button {
+    margin: 25px auto 0;
+    padding: 5px 5px;
+    background-color: white;
+    font-size: 14px;
+    text-align: center;
+    border: 2px solid;
+    text-transform: uppercase;
+    text-decoration: none;
+    outline: none;
+}
+
